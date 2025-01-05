@@ -1,0 +1,403 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "category": "Electronics",
+      "price": 59.99,
+      "description": "Comfortable over-ear wireless headphones with noise cancellation.",
+      "imageUrl": "https://example.com/images/wireless-headphones.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 699.99,
+      "description": "Latest smartphone with high-resolution display and powerful camera.",
+      "imageUrl": "https://example.com/images/smartphone.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Laptop Backpack",
+      "category": "Accessories",
+      "price": 39.99,
+      "description": "Durable backpack with padded compartments for laptops and accessories.",
+      "imageUrl": "https://example.com/images/laptop-backpack.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Gaming Keyboard",
+      "category": "Electronics",
+      "price": 89.99,
+      "description": "Mechanical keyboard with RGB lighting and customizable keys.",
+      "imageUrl": "https://example.com/images/gaming-keyboard.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Running Shoes",
+      "category": "Sportswear",
+      "price": 49.99,
+      "description": "Lightweight running shoes with excellent cushioning for long runs.",
+      "imageUrl": "https://example.com/images/running-shoes.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Wristwatch",
+      "category": "Accessories",
+      "price": 119.99,
+      "description": "Stylish wristwatch with leather strap and water resistance.",
+      "imageUrl": "https://example.com/images/wristwatch.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Blender",
+      "category": "Home Appliances",
+      "price": 29.99,
+      "description": "High-speed blender for making smoothies and shakes.",
+      "imageUrl": "https://example.com/images/blender.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Yoga Mat",
+      "category": "Sportswear",
+      "price": 19.99,
+      "description": "Non-slip yoga mat with extra thickness for comfortable workouts.",
+      "imageUrl": "https://example.com/images/yoga-mat.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Action Camera",
+      "category": "Electronics",
+      "price": 149.99,
+      "description": "Compact action camera with waterproof design and 4K recording.",
+      "imageUrl": "https://example.com/images/action-camera.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Coffee Maker",
+      "category": "Home Appliances",
+      "price": 79.99,
+      "description": "Automatic coffee maker with programmable settings and large capacity.",
+      "imageUrl": "https://example.com/images/coffee-maker.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Desk Chair",
+      "category": "Furniture",
+      "price": 99.99,
+      "description": "Ergonomic desk chair with lumbar support and adjustable height.",
+      "imageUrl": "https://example.com/images/desk-chair.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Electric Kettle",
+      "category": "Home Appliances",
+      "price": 24.99,
+      "description": "Fast-boiling electric kettle with automatic shutoff.",
+      "imageUrl": "https://example.com/images/electric-kettle.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "price": 49.99,
+      "description": "Portable Bluetooth speaker with deep bass and long battery life.",
+      "imageUrl": "https://example.com/images/bluetooth-speaker.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Water Bottle",
+      "category": "Accessories",
+      "price": 14.99,
+      "description": "Insulated stainless steel water bottle to keep drinks hot or cold.",
+      "imageUrl": "https://example.com/images/water-bottle.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Fitness Tracker",
+      "category": "Electronics",
+      "price": 89.99,
+      "description": "Track your fitness progress with heart rate monitor and GPS.",
+      "imageUrl": "https://example.com/images/fitness-tracker.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Desk Lamp",
+      "category": "Furniture",
+      "price": 29.99,
+      "description": "Adjustable LED desk lamp with touch control and multiple brightness settings.",
+      "imageUrl": "https://example.com/images/desk-lamp.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Sunglasses",
+      "category": "Accessories",
+      "price": 19.99,
+      "description": "Stylish sunglasses with UV protection for outdoor activities.",
+      "imageUrl": "https://example.com/images/sunglasses.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 299.99,
+      "description": "High-performance tablet with a vivid display and long battery life.",
+      "imageUrl": "https://example.com/images/tablet.jpg"
+    },
+    {
+      "id": 19,
+      "name": "T-Shirt",
+      "category": "Clothing",
+      "price": 14.99,
+      "description": "Comfortable cotton t-shirt available in various sizes and colors.",
+      "imageUrl": "https://example.com/images/t-shirt.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Wireless Mouse",
+      "category": "Electronics",
+      "price": 19.99,
+      "description": "Ergonomic wireless mouse with adjustable DPI settings.",
+      "imageUrl": "https://example.com/images/wireless-mouse.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Smart Watch",
+      "category": "Electronics",
+      "price": 199.99,
+      "description": "Smartwatch with fitness tracking, notifications, and heart rate monitor.",
+      "imageUrl": "https://example.com/images/smart-watch.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Game Console",
+      "category": "Electronics",
+      "price": 399.99,
+      "description": "Next-gen gaming console with 4K gaming capabilities.",
+      "imageUrl": "https://example.com/images/game-console.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Electric Toothbrush",
+      "category": "Health & Personal Care",
+      "price": 29.99,
+      "description": "Rechargeable electric toothbrush with multiple brushing modes.",
+      "imageUrl": "https://example.com/images/electric-toothbrush.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Digital Camera",
+      "category": "Electronics",
+      "price": 499.99,
+      "description": "Compact digital camera with high-resolution imaging and 4K video.",
+      "imageUrl": "https://example.com/images/digital-camera.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Wall Clock",
+      "category": "Home Decor",
+      "price": 24.99,
+      "description": "Modern wall clock with a sleek design and silent operation.",
+      "imageUrl": "https://example.com/images/wall-clock.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Air Purifier",
+      "category": "Home Appliances",
+      "price": 129.99,
+      "description": "Air purifier with HEPA filtration and air quality monitoring.",
+      "imageUrl": "https://example.com/images/air-purifier.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Smart Light Bulbs",
+      "category": "Home Appliances",
+      "price": 19.99,
+      "description": "Wi-Fi enabled smart light bulbs with adjustable brightness and color.",
+      "imageUrl": "https://example.com/images/smart-light-bulbs.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Bluetooth Headset",
+      "category": "Electronics",
+      "price": 69.99,
+      "description": "Comfortable Bluetooth headset with noise-cancelling and long battery life.",
+      "imageUrl": "https://example.com/images/bluetooth-headset.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Portable Power Bank",
+      "category": "Electronics",
+      "price": 29.99,
+      "description": "High-capacity portable power bank for charging devices on the go.",
+      "imageUrl": "https://example.com/images/portable-power-bank.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Camera Tripod",
+      "category": "Electronics",
+      "price": 59.99,
+      "description": "Adjustable camera tripod for stable shots and videos.",
+      "imageUrl": "https://example.com/images/camera-tripod.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Electric Griddle",
+      "category": "Home Appliances",
+      "price": 49.99,
+      "description": "Large electric griddle for cooking pancakes, eggs, and more.",
+      "imageUrl": "https://example.com/images/electric-griddle.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Pressure Cooker",
+      "category": "Home Appliances",
+      "price": 49.99,
+      "description": "Stainless steel pressure cooker for fast cooking and easy clean-up.",
+      "imageUrl": "https://example.com/images/pressure-cooker.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Hair Dryer",
+      "category": "Health & Personal Care",
+      "price": 39.99,
+      "description": "Powerful hair dryer with multiple heat and speed settings.",
+      "imageUrl": "https://example.com/images/hair-dryer.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Electric Fan",
+      "category": "Home Appliances",
+      "price": 29.99,
+      "description": "Adjustable electric fan for cooling during hot summer days.",
+      "imageUrl": "https://example.com/images/electric-fan.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Cordless Drill",
+      "category": "Tools & Home Improvement",
+      "price": 79.99,
+      "description": "Rechargeable cordless drill with multiple speed settings.",
+      "imageUrl": "https://example.com/images/cordless-drill.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Garden Hose",
+      "category": "Outdoor & Garden",
+      "price": 39.99,
+      "description": "Durable garden hose with adjustable nozzle for watering plants.",
+      "imageUrl": "https://example.com/images/garden-hose.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Shoe Rack",
+      "category": "Furniture",
+      "price": 29.99,
+      "description": "Space-saving shoe rack for organizing shoes in small spaces.",
+      "imageUrl": "https://example.com/images/shoe-rack.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Electric Grill",
+      "category": "Home Appliances",
+      "price": 79.99,
+      "description": "Indoor electric grill with adjustable temperature and non-stick surface.",
+      "imageUrl": "https://example.com/images/electric-grill.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Wall Art",
+      "category": "Home Decor",
+      "price": 49.99,
+      "description": "Beautiful canvas wall art for decorating your living space.",
+      "imageUrl": "https://example.com/images/wall-art.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Camping Tent",
+      "category": "Outdoor & Garden",
+      "price": 129.99,
+      "description": "Waterproof camping tent with enough space for four people.",
+      "imageUrl": "https://example.com/images/camping-tent.jpg"
+    },
+    {
+      "id": 41,
+      "name": "Smart Thermostat",
+      "category": "Home Appliances",
+      "price": 99.99,
+      "description": "Smart thermostat with Wi-Fi connectivity and energy-saving features.",
+      "imageUrl": "https://example.com/images/smart-thermostat.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Blender Bottle",
+      "category": "Accessories",
+      "price": 12.99,
+      "description": "Portable blender bottle for mixing protein shakes and smoothies.",
+      "imageUrl": "https://example.com/images/blender-bottle.jpg"
+    },
+    {
+      "id": 43,
+      "name": "Umbrella",
+      "category": "Accessories",
+      "price": 14.99,
+      "description": "Durable umbrella with automatic open and close mechanism.",
+      "imageUrl": "https://example.com/images/umbrella.jpg"
+    },
+    {
+      "id": 44,
+      "name": "Smart Plug",
+      "category": "Home Appliances",
+      "price": 19.99,
+      "description": "Smart plug for controlling appliances remotely with your phone.",
+      "imageUrl": "https://example.com/images/smart-plug.jpg"
+    },
+    {
+      "id": 45,
+      "name": "Luggage Set",
+      "category": "Travel",
+      "price": 159.99,
+      "description": "Durable luggage set with multiple compartments and lockable zippers.",
+      "imageUrl": "https://example.com/images/luggage-set.jpg"
+    },
+    {
+      "id": 46,
+      "name": "Electric Skillet",
+      "category": "Home Appliances",
+      "price": 49.99,
+      "description": "Electric skillet with non-stick surface for easy cooking.",
+      "imageUrl": "https://example.com/images/electric-skillet.jpg"
+    },
+    {
+      "id": 47,
+      "name": "Cordless Vacuum",
+      "category": "Home Appliances",
+      "price": 139.99,
+      "description": "Cordless vacuum with powerful suction and long battery life.",
+      "imageUrl": "https://example.com/images/cordless-vacuum.jpg"
+    },
+    {
+      "id": 48,
+      "name": "Smart Doorbell",
+      "category": "Home Appliances",
+      "price": 79.99,
+      "description": "Smart doorbell with video monitoring and two-way communication.",
+      "imageUrl": "https://example.com/images/smart-doorbell.jpg"
+    },
+    {
+      "id": 49,
+      "name": "Pet Camera",
+      "category": "Electronics",
+      "price": 89.99,
+      "description": "Monitor your pets with this camera featuring two-way audio and motion detection.",
+      "imageUrl": "https://example.com/images/pet-camera.jpg"
+    },
+    {
+      "id": 50,
+      "name": "Electric Toothbrush",
+      "category": "Health & Personal Care",
+      "price": 29.99,
+      "description": "Rechargeable electric toothbrush with multiple brushing modes.",
+      "imageUrl": "https://example.com/images/electric-toothbrush.jpg"
+    }
+  ]
+  
