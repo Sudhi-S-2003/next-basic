@@ -1,0 +1,403 @@
+[
+    {
+      "id": 1,
+      "name": "Pizza Margherita",
+      "category": "Italian",
+      "price": 9.99,
+      "description": "Classic pizza with mozzarella, tomato, and basil.",
+      "image": "https://example.com/images/pizzamargherita.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Sushi Rolls",
+      "category": "Japanese",
+      "price": 12.50,
+      "description": "Fresh sushi rolls with tuna, avocado, and cucumber.",
+      "image": "https://example.com/images/sushirolls.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Burger",
+      "category": "American",
+      "price": 8.99,
+      "description": "Juicy beef patty with lettuce, tomato, and cheese.",
+      "image": "https://example.com/images/burger.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Caesar Salad",
+      "category": "Salad",
+      "price": 7.50,
+      "description": "Crisp lettuce with Caesar dressing, croutons, and parmesan.",
+      "image": "https://example.com/images/caesarsalad.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Pasta Carbonara",
+      "category": "Italian",
+      "price": 10.50,
+      "description": "Pasta with creamy sauce, bacon, and parmesan.",
+      "image": "https://example.com/images/pastacarbonara.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Tacos",
+      "category": "Mexican",
+      "price": 6.99,
+      "description": "Soft corn tortillas filled with seasoned beef or chicken.",
+      "image": "https://example.com/images/tacos.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Falafel",
+      "category": "Middle Eastern",
+      "price": 5.99,
+      "description": "Crispy chickpea balls served with tahini sauce.",
+      "image": "https://example.com/images/falafel.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Pad Thai",
+      "category": "Thai",
+      "price": 11.50,
+      "description": "Stir-fried rice noodles with shrimp, peanuts, and lime.",
+      "image": "https://example.com/images/padthai.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Steak",
+      "category": "American",
+      "price": 18.99,
+      "description": "Grilled ribeye steak served with mashed potatoes.",
+      "image": "https://example.com/images/steak.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Chicken Curry",
+      "category": "Indian",
+      "price": 13.50,
+      "description": "Spicy chicken curry with basmati rice.",
+      "image": "https://example.com/images/chickencurry.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Fish and Chips",
+      "category": "British",
+      "price": 14.00,
+      "description": "Fried fish fillets with crispy fries.",
+      "image": "https://example.com/images/fishandchips.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Ramen",
+      "category": "Japanese",
+      "price": 10.99,
+      "description": "Noodles in a rich broth with pork and egg.",
+      "image": "https://example.com/images/ramen.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Quiche",
+      "category": "French",
+      "price": 8.50,
+      "description": "Savory pie filled with eggs, cheese, and vegetables.",
+      "image": "https://example.com/images/quiche.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Paella",
+      "category": "Spanish",
+      "price": 16.00,
+      "description": "Rice dish with seafood, chicken, and saffron.",
+      "image": "https://example.com/images/paella.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Ceviche",
+      "category": "Peruvian",
+      "price": 9.00,
+      "description": "Citrusy marinated fish with onions and cilantro.",
+      "image": "https://example.com/images/ceviche.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Banh Mi",
+      "category": "Vietnamese",
+      "price": 7.50,
+      "description": "Vietnamese sandwich with pork, pickled vegetables, and cilantro.",
+      "image": "https://example.com/images/banhmi.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Shawarma",
+      "category": "Middle Eastern",
+      "price": 8.99,
+      "description": "Spiced meat served in pita bread with veggies and sauce.",
+      "image": "https://example.com/images/shawarma.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Samosa",
+      "category": "Indian",
+      "price": 4.50,
+      "description": "Fried pastry filled with spiced potatoes and peas.",
+      "image": "https://example.com/images/samosa.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Dim Sum",
+      "category": "Chinese",
+      "price": 6.00,
+      "description": "Assorted dumplings served with soy sauce.",
+      "image": "https://example.com/images/dimsum.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Lamb Kebab",
+      "category": "Middle Eastern",
+      "price": 10.00,
+      "description": "Grilled lamb skewers served with rice or flatbread.",
+      "image": "https://example.com/images/lambkebab.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Cheesecake",
+      "category": "Dessert",
+      "price": 5.99,
+      "description": "Creamy cheesecake with a graham cracker crust.",
+      "image": "https://example.com/images/cheesecake.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Apple Pie",
+      "category": "Dessert",
+      "price": 4.99,
+      "description": "Warm pie filled with spiced apples.",
+      "image": "https://example.com/images/applepie.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Brownie",
+      "category": "Dessert",
+      "price": 3.99,
+      "description": "Rich, fudgy chocolate brownie.",
+      "image": "https://example.com/images/brownie.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Gelato",
+      "category": "Dessert",
+      "price": 4.50,
+      "description": "Italian ice cream with rich flavors.",
+      "image": "https://example.com/images/gelato.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Croissant",
+      "category": "Pastry",
+      "price": 2.50,
+      "description": "Flaky buttery pastry.",
+      "image": "https://example.com/images/croissant.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Peking Duck",
+      "category": "Chinese",
+      "price": 20.00,
+      "description": "Crispy duck served with pancakes and hoisin sauce.",
+      "image": "https://example.com/images/pekingduck.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Moussaka",
+      "category": "Greek",
+      "price": 12.00,
+      "description": "Layered casserole with eggplant, minced meat, and béchamel sauce.",
+      "image": "https://example.com/images/moussaka.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Goulash",
+      "category": "Hungarian",
+      "price": 11.00,
+      "description": "Hearty stew made with beef, potatoes, and paprika.",
+      "image": "https://example.com/images/goulash.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Biryani",
+      "category": "Indian",
+      "price": 10.00,
+      "description": "Fragrant rice with spiced meat and vegetables.",
+      "image": "https://example.com/images/biryani.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Gnocchi",
+      "category": "Italian",
+      "price": 9.50,
+      "description": "Soft potato dumplings in a creamy sauce.",
+      "image": "https://example.com/images/gnocchi.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Lasagna",
+      "category": "Italian",
+      "price": 14.50,
+      "description": "Layers of pasta, meat, and cheese baked together.",
+      "image": "https://example.com/images/lasagna.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Beef Wellington",
+      "category": "British",
+      "price": 25.00,
+      "description": "Beef fillet wrapped in puff pastry and baked.",
+      "image": "https://example.com/images/beefwellington.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Tiramisu",
+      "category": "Dessert",
+      "price": 6.50,
+      "description": "Layered dessert with mascarpone, coffee, and cocoa.",
+      "image": "https://example.com/images/tiramisu.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Churros",
+      "category": "Dessert",
+      "price": 4.00,
+      "description": "Fried dough sticks dusted with sugar and cinnamon.",
+      "image": "https://example.com/images/churros.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Baklava",
+      "category": "Dessert",
+      "price": 5.00,
+      "description": "Sweet pastry made of layers of filo dough, honey, and nuts.",
+      "image": "https://example.com/images/baklava.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Pavlova",
+      "category": "Dessert",
+      "price": 5.50,
+      "description": "Meringue-based dessert topped with fresh fruit.",
+      "image": "https://example.com/images/pavlova.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Maki Sushi",
+      "category": "Japanese",
+      "price": 9.00,
+      "description": "Rice rolls wrapped in seaweed with fish and vegetables.",
+      "image": "https://example.com/images/makisushi.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Poutine",
+      "category": "Canadian",
+      "price": 8.50,
+      "description": "Fries topped with cheese curds and gravy.",
+      "image": "https://example.com/images/poutine.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Crepes",
+      "category": "French",
+      "price": 6.00,
+      "description": "Thin pancakes served with various fillings.",
+      "image": "https://example.com/images/crepes.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Bruschetta",
+      "category": "Italian",
+      "price": 5.00,
+      "description": "Toasted bread with garlic, tomato, and basil.",
+      "image": "https://example.com/images/bruschetta.jpg"
+    },
+    {
+      "id": 41,
+      "name": "Risotto",
+      "category": "Italian",
+      "price": 12.50,
+      "description": "Creamy rice dish with mushrooms and parmesan.",
+      "image": "https://example.com/images/risotto.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Gumbo",
+      "category": "American",
+      "price": 14.50,
+      "description": "Spicy stew with seafood, sausage, and okra.",
+      "image": "https://example.com/images/gumbo.jpg"
+    },
+    {
+      "id": 43,
+      "name": "Currywurst",
+      "category": "German",
+      "price": 8.00,
+      "description": "Grilled sausage topped with curry ketchup.",
+      "image": "https://example.com/images/currywurst.jpg"
+    },
+    {
+      "id": 44,
+      "name": "Kimchi",
+      "category": "Korean",
+      "price": 3.00,
+      "description": "Spicy fermented vegetables, usually cabbage.",
+      "image": "https://example.com/images/kimchi.jpg"
+    },
+    {
+      "id": 45,
+      "name": "Fettuccine Alfredo",
+      "category": "Italian",
+      "price": 11.00,
+      "description": "Pasta in a creamy parmesan sauce.",
+      "image": "https://example.com/images/fettuccinealfredo.jpg"
+    },
+    {
+      "id": 46,
+      "name": "Tempura",
+      "category": "Japanese",
+      "price": 8.00,
+      "description": "Battered and deep-fried vegetables or seafood.",
+      "image": "https://example.com/images/tempura.jpg"
+    },
+    {
+      "id": 47,
+      "name": "Bulgogi",
+      "category": "Korean",
+      "price": 12.00,
+      "description": "Marinated beef grilled or stir-fried with vegetables.",
+      "image": "https://example.com/images/bulgogi.jpg"
+    },
+    {
+      "id": 48,
+      "name": "Hot Dog",
+      "category": "American",
+      "price": 5.00,
+      "description": "Sausage served in a bun with condiments.",
+      "image": "https://example.com/images/hotdog.jpg"
+    },
+    {
+      "id": 49,
+      "name": "Fried Chicken",
+      "category": "American",
+      "price": 9.00,
+      "description": "Crispy fried chicken pieces.",
+      "image": "https://example.com/images/friedchicken.jpg"
+    },
+    {
+      "id": 50,
+      "name": "Ratatouille",
+      "category": "French",
+      "price": 12.00,
+      "description": "Stewed vegetable dish with zucchini, eggplant, and peppers.",
+      "image": "https://example.com/images/ratatouille.jpg"
+    }
+  ]
+  

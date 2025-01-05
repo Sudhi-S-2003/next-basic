@@ -1,0 +1,453 @@
+[
+    {
+      "id": 1,
+      "title": "Inception",
+      "genre": "Sci-Fi",
+      "releaseYear": 2010,
+      "director": "Christopher Nolan",
+      "rating": 8.8,
+      "image": "https://example.com/images/inception.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Dark Knight",
+      "genre": "Action",
+      "releaseYear": 2008,
+      "director": "Christopher Nolan",
+      "rating": 9.0,
+      "image": "https://example.com/images/darkknight.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Forrest Gump",
+      "genre": "Drama",
+      "releaseYear": 1994,
+      "director": "Robert Zemeckis",
+      "rating": 8.8,
+      "image": "https://example.com/images/forrestgump.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Titanic",
+      "genre": "Romance",
+      "releaseYear": 1997,
+      "director": "James Cameron",
+      "rating": 7.8,
+      "image": "https://example.com/images/titanic.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Avatar",
+      "genre": "Sci-Fi",
+      "releaseYear": 2009,
+      "director": "James Cameron",
+      "rating": 7.8,
+      "image": "https://example.com/images/avatar.jpg"
+    },
+    {
+      "id": 6,
+      "title": "The Shawshank Redemption",
+      "genre": "Drama",
+      "releaseYear": 1994,
+      "director": "Frank Darabont",
+      "rating": 9.3,
+      "image": "https://example.com/images/shawshank.jpg"
+    },
+    {
+      "id": 7,
+      "title": "The Godfather",
+      "genre": "Crime",
+      "releaseYear": 1972,
+      "director": "Francis Ford Coppola",
+      "rating": 9.2,
+      "image": "https://example.com/images/godfather.jpg"
+    },
+    {
+      "id": 8,
+      "title": "The Godfather: Part II",
+      "genre": "Crime",
+      "releaseYear": 1974,
+      "director": "Francis Ford Coppola",
+      "rating": 9.0,
+      "image": "https://example.com/images/godfather2.jpg"
+    },
+    {
+      "id": 9,
+      "title": "The Dark Knight Rises",
+      "genre": "Action",
+      "releaseYear": 2012,
+      "director": "Christopher Nolan",
+      "rating": 8.4,
+      "image": "https://example.com/images/darkknightrises.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Pulp Fiction",
+      "genre": "Crime",
+      "releaseYear": 1994,
+      "director": "Quentin Tarantino",
+      "rating": 8.9,
+      "image": "https://example.com/images/pulpfiction.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Schindler's List",
+      "genre": "History",
+      "releaseYear": 1993,
+      "director": "Steven Spielberg",
+      "rating": 9.0,
+      "image": "https://example.com/images/schindlerslist.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Fight Club",
+      "genre": "Drama",
+      "releaseYear": 1999,
+      "director": "David Fincher",
+      "rating": 8.8,
+      "image": "https://example.com/images/fightclub.jpg"
+    },
+    {
+      "id": 13,
+      "title": "The Matrix",
+      "genre": "Sci-Fi",
+      "releaseYear": 1999,
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "rating": 8.7,
+      "image": "https://example.com/images/matrix.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Star Wars: A New Hope",
+      "genre": "Sci-Fi",
+      "releaseYear": 1977,
+      "director": "George Lucas",
+      "rating": 8.6,
+      "image": "https://example.com/images/starwars1.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Star Wars: The Empire Strikes Back",
+      "genre": "Sci-Fi",
+      "releaseYear": 1980,
+      "director": "Irvin Kershner",
+      "rating": 8.7,
+      "image": "https://example.com/images/starwars2.jpg"
+    },
+    {
+      "id": 16,
+      "title": "The Lion King",
+      "genre": "Animation",
+      "releaseYear": 1994,
+      "director": "Roger Allers, Rob Minkoff",
+      "rating": 8.5,
+      "image": "https://example.com/images/lionking.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Goodfellas",
+      "genre": "Crime",
+      "releaseYear": 1990,
+      "director": "Martin Scorsese",
+      "rating": 8.7,
+      "image": "https://example.com/images/goodfellas.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Interstellar",
+      "genre": "Sci-Fi",
+      "releaseYear": 2014,
+      "director": "Christopher Nolan",
+      "rating": 8.6,
+      "image": "https://example.com/images/interstellar.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Gladiator",
+      "genre": "Action",
+      "releaseYear": 2000,
+      "director": "Ridley Scott",
+      "rating": 8.5,
+      "image": "https://example.com/images/gladiator.jpg"
+    },
+    {
+      "id": 20,
+      "title": "The Prestige",
+      "genre": "Mystery",
+      "releaseYear": 2006,
+      "director": "Christopher Nolan",
+      "rating": 8.5,
+      "image": "https://example.com/images/prestige.jpg"
+    },
+    {
+      "id": 21,
+      "title": "The Avengers",
+      "genre": "Action",
+      "releaseYear": 2012,
+      "director": "Joss Whedon",
+      "rating": 8.0,
+      "image": "https://example.com/images/avengers.jpg"
+    },
+    {
+      "id": 22,
+      "title": "The Silence of the Lambs",
+      "genre": "Thriller",
+      "releaseYear": 1991,
+      "director": "Jonathan Demme",
+      "rating": 8.6,
+      "image": "https://example.com/images/silenceofthelambs.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Casablanca",
+      "genre": "Romance",
+      "releaseYear": 1942,
+      "director": "Michael Curtiz",
+      "rating": 8.5,
+      "image": "https://example.com/images/casablanca.jpg"
+    },
+    {
+      "id": 24,
+      "title": "The Great Gatsby",
+      "genre": "Drama",
+      "releaseYear": 2013,
+      "director": "Baz Luhrmann",
+      "rating": 7.3,
+      "image": "https://example.com/images/greatgatsby.jpg"
+    },
+    {
+      "id": 25,
+      "title": "Joker",
+      "genre": "Drama",
+      "releaseYear": 2019,
+      "director": "Todd Phillips",
+      "rating": 8.5,
+      "image": "https://example.com/images/joker.jpg"
+    },
+    {
+      "id": 26,
+      "title": "The Terminator",
+      "genre": "Sci-Fi",
+      "releaseYear": 1984,
+      "director": "James Cameron",
+      "rating": 8.0,
+      "image": "https://example.com/images/terminator.jpg"
+    },
+    {
+      "id": 27,
+      "title": "Star Wars: Return of the Jedi",
+      "genre": "Sci-Fi",
+      "releaseYear": 1983,
+      "director": "Richard Marquand",
+      "rating": 8.3,
+      "image": "https://example.com/images/starwars3.jpg"
+    },
+    {
+      "id": 28,
+      "title": "The Usual Suspects",
+      "genre": "Crime",
+      "releaseYear": 1995,
+      "director": "Bryan Singer",
+      "rating": 8.5,
+      "image": "https://example.com/images/usualsuspects.jpg"
+    },
+    {
+      "id": 29,
+      "title": "12 Angry Men",
+      "genre": "Drama",
+      "releaseYear": 1957,
+      "director": "Sidney Lumet",
+      "rating": 8.9,
+      "image": "https://example.com/images/12angrymen.jpg"
+    },
+    {
+      "id": 30,
+      "title": "The Green Mile",
+      "genre": "Drama",
+      "releaseYear": 1999,
+      "director": "Frank Darabont",
+      "rating": 8.6,
+      "image": "https://example.com/images/greenmile.jpg"
+    },
+    {
+      "id": 31,
+      "title": "City of God",
+      "genre": "Crime",
+      "releaseYear": 2002,
+      "director": "Fernando Meirelles",
+      "rating": 8.6,
+      "image": "https://example.com/images/cityofgod.jpg"
+    },
+    {
+      "id": 32,
+      "title": "The Shining",
+      "genre": "Horror",
+      "releaseYear": 1980,
+      "director": "Stanley Kubrick",
+      "rating": 8.4,
+      "image": "https://example.com/images/shining.jpg"
+    },
+    {
+      "id": 33,
+      "title": "The Departed",
+      "genre": "Crime",
+      "releaseYear": 2006,
+      "director": "Martin Scorsese",
+      "rating": 8.5,
+      "image": "https://example.com/images/departed.jpg"
+    },
+    {
+      "id": 34,
+      "title": "A Clockwork Orange",
+      "genre": "Crime",
+      "releaseYear": 1971,
+      "director": "Stanley Kubrick",
+      "rating": 8.3,
+      "image": "https://example.com/images/clockworkorange.jpg"
+    },
+    {
+      "id": 35,
+      "title": "The Big Lebowski",
+      "genre": "Comedy",
+      "releaseYear": 1998,
+      "director": "Joel Coen, Ethan Coen",
+      "rating": 8.1,
+      "image": "https://example.com/images/biglebowski.jpg"
+    },
+    {
+      "id": 36,
+      "title": "The Hunt",
+      "genre": "Drama",
+      "releaseYear": 2012,
+      "director": "Thomas Vinterberg",
+      "rating": 8.3,
+      "image": "https://example.com/images/hunt.jpg"
+    },
+    {
+      "id": 37,
+      "title": "The Road",
+      "genre": "Drama",
+      "releaseYear": 2009,
+      "director": "John Hillcoat",
+      "rating": 7.2,
+      "image": "https://example.com/images/road.jpg"
+    },
+    {
+      "id": 38,
+      "title": "Whiplash",
+      "genre": "Drama",
+      "releaseYear": 2014,
+      "director": "Damien Chazelle",
+      "rating": 8.5,
+      "image": "https://example.com/images/whiplash.jpg"
+    },
+    {
+      "id": 39,
+      "title": "The Social Network",
+      "genre": "Drama",
+      "releaseYear": 2010,
+      "director": "David Fincher",
+      "rating": 8.0,
+      "image": "https://example.com/images/socialnetwork.jpg"
+    },
+    {
+      "id": 40,
+      "title": "Gone with the Wind",
+      "genre": "Romance",
+      "releaseYear": 1939,
+      "director": "Victor Fleming",
+      "rating": 8.1,
+      "image": "https://example.com/images/gonewiththewind.jpg"
+    },
+    {
+      "id": 41,
+      "title": "Jurassic Park",
+      "genre": "Sci-Fi",
+      "releaseYear": 1993,
+      "director": "Steven Spielberg",
+      "rating": 8.1,
+      "image": "https://example.com/images/jurassicpark.jpg"
+    },
+    {
+      "id": 42,
+      "title": "American History X",
+      "genre": "Drama",
+      "releaseYear": 1998,
+      "director": "Tony Kaye",
+      "rating": 8.5,
+      "image": "https://example.com/images/americanhistoryx.jpg"
+    },
+    {
+      "id": 43,
+      "title": "The Revenant",
+      "genre": "Adventure",
+      "releaseYear": 2015,
+      "director": "Alejandro G. Iñárritu",
+      "rating": 8.0,
+      "image": "https://example.com/images/revenant.jpg"
+    },
+    {
+      "id": 44,
+      "title": "No Country for Old Men",
+      "genre": "Crime",
+      "releaseYear": 2007,
+      "director": "Joel Coen, Ethan Coen",
+      "rating": 8.1,
+      "image": "https://example.com/images/nocountryforoldmen.jpg"
+    },
+    {
+      "id": 45,
+      "title": "Se7en",
+      "genre": "Thriller",
+      "releaseYear": 1995,
+      "director": "David Fincher",
+      "rating": 8.6,
+      "image": "https://example.com/images/seven.jpg"
+    },
+    {
+      "id": 46,
+      "title": "The Grand Budapest Hotel",
+      "genre": "Comedy",
+      "releaseYear": 2014,
+      "director": "Wes Anderson",
+      "rating": 8.1,
+      "image": "https://example.com/images/grandbudapest.jpg"
+    },
+    {
+      "id": 47,
+      "title": "The Imitation Game",
+      "genre": "Biography",
+      "releaseYear": 2014,
+      "director": "Morten Tyldum",
+      "rating": 8.0,
+      "image": "https://example.com/images/imtationgame.jpg"
+    },
+    {
+      "id": 48,
+      "title": "The Wolf of Wall Street",
+      "genre": "Biography",
+      "releaseYear": 2013,
+      "director": "Martin Scorsese",
+      "rating": 8.2,
+      "image": "https://example.com/images/wolfofwallstreet.jpg"
+    },
+    {
+      "id": 49,
+      "title": "Braveheart",
+      "genre": "Drama",
+      "releaseYear": 1995,
+      "director": "Mel Gibson",
+      "rating": 8.3,
+      "image": "https://example.com/images/braveheart.jpg"
+    },
+    {
+      "id": 50,
+      "title": "The Matrix Reloaded",
+      "genre": "Sci-Fi",
+      "releaseYear": 2003,
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "rating": 7.2,
+      "image": "https://example.com/images/matrix2.jpg"
+    }
+  ]
+  
