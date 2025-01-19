@@ -6,7 +6,7 @@ import { Container, Typography, Box } from "@mui/material";
 const CodePreviewPage = () => {
   const sampleCode = `
   <>
-    <div style={{ padding: "10px", backgroundColor: "#f0f0f0", borderRadius: "5px" }}>
+    <div style={{ padding: "10px", backgroundColor: "#f0f0f0", borderRadius: "5px" }} className="text-purple-500" >
       <h1>Hello, World!</h1>
       <p>This is a JSX preview without Framer Motion!</p>
     </div>

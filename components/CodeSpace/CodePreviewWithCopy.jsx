@@ -41,7 +41,7 @@ const CodePreviewWithCopy = ({ name, code, externalComponents = [] }) => {
 
   const generateCode = (code) => {
     return `
-    ${externalComponents.map((lib) => {
+    \n${externalComponents.map((lib) => {
       return `import ${lib.variable} from '${lib.library}';`;
     }).join('\n')}
   

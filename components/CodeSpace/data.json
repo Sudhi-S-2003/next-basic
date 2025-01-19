@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Scale Up Hover",
+    "code": "<div className=\"flex justify-center items-center h-screen bg-gray-200\">\n  <button className=\"transition-all duration-300 ease-in-out transform hover:scale-110 px-6 py-2 bg-blue-300 text-white rounded-lg\">\n    Hover me\n  </button>\n</div>"
+  },
+  {
+    "name": "Slide In From Left",
+    "code": "<div className=\"flex justify-center items-center h-screen bg-gray-300\">\n  <div className=\"transition-all duration-500 ease-in-out transform hover:translate-x-10 bg-red-500 text-white w-16 h-16 rounded-full\">\n  </div>\n</div>"
+  },
+  {
+    "name": "Slide In From Right",
+    "code": "<div className=\"flex justify-center items-center h-screen bg-gray-400\">\n  <div className=\"transition-all duration-500 ease-in-out transform hover:translate-x-10 bg-purple-500 text-white w-16 h-16 rounded-full\">\n  </div>\n</div>"
+  },
+  {
+    "name": "Rotate on Hover",
+    "code": "<div className=\"flex justify-center items-center h-screen bg-gray-500\">\n  <div className=\"transition-transform duration-500 transform hover:rotate-180 bg-yellow-500 text-white w-16 h-16 rounded-full\">\n  </div>\n</div>"
+  },
+  {
+    "name": "Bounce on Hover",
+    "code": "<div className=\"flex justify-center items-center h-screen bg-gray-600\">\n  <div className=\"transition-all duration-300 ease-in-out transform hover:animate-bounce bg-pink-500 text-white w-16 h-16 rounded-full\">\n  </div>\n</div>"
+  },
+  {
+    "name": "Opacity Change on Hover",
+    "code": "<div className=\"flex justify-center items-center h-screen bg-gray-700\">\n  <div className=\"transition-opacity duration-300 hover:opacity-50 bg-teal-500 text-white w-16 h-16 rounded-full\">\n  </div>\n</div>"
+  },
+  {
+    "name": "Slide Down on Hover",
+    "code": "<div className=\"flex justify-center items-center h-screen bg-gray-800\">\n  <div className=\"transition-all duration-500 ease-in-out transform hover:translate-y-10 bg-indigo-500 text-white w-16 h-16 rounded-full\">\n  </div>\n</div>"
+  },
+  {
+    "name": "Flip on Hover",
+    "code": "<div className=\"flex justify-center items-center h-screen bg-gray-900\">\n  <div className=\"transition-transform duration-500 transform hover:rotate-180 bg-orange-500 text-white w-16 h-16 rounded-full\">\n  </div>\n</div>"
+  },
+  {
+    "name": "Grow from Center on Hover",
+    "code": "<div className=\"flex justify-center items-center h-screen bg-gray-100\">\n  <div className=\"transition-all duration-500 transform hover:scale-125 bg-blue-500 text-white w-16 h-16 rounded-full\">\n  </div>\n</div>"
+  },
+  {
+    "name": "Shadow on Hover",
+    "code": "<div className=\"flex justify-center items-center h-screen bg-gray-200\">\n  <div className=\"transition-shadow duration-300 hover:shadow-xl bg-green-500 text-white w-16 h-16 rounded-full\">\n  </div>\n</div>"
+  }
+]
